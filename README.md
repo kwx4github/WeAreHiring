@@ -16,8 +16,8 @@ Come and visit our website and mobile apps to understand more about us:
 
 ### Open positions
 
-* [iOS Developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/Project-coordinator.md)
-* [Android Developer](https://github.com/HotelQuickly/WeAreHiring/blob/master/open-positions/DevOps.md)
+* [iOS Developer]()
+* [Android Developer]()
 
 ## Our team
 
