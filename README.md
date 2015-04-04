@@ -41,10 +41,10 @@ Here are some of our recent activities. See how happy our users are:
 
 All of us live by the following core values. Let us know if this sounds perfect for you!
 
-* **Work like in a startup** (yes, eBay is a big corp, but it doesn't mean we cannot act fast)
-* **Think out of the box** (We need your creative mind to think something that our competitors are not doing)
+* **Work like in a startup** (yes, eBay is a big corp, but it doesn't mean we cannot act fast like a startup)
+* **Think out of the box** (We need your creativity to produce something our competitors aren't doing)
 * **Execution & pro-activity** (we love to see people being proactive and accepting challenging situations)
-* **Be multi-talented** (being a developer doesn't mean you cannot help the marketing team, be open and share your thought)
+* **Be multi-talented** (being a developer doesn't mean you cannot help the marketing team, be open and share your thought anytime)
 * **work life balance** (we want you to work hard, but we also want you to spend more time for yourself or your family. Work over time for project? Ask your boss for compensation leave)
 * **Be Fun** (work hard, play hard - we have lot's of fun!)
 
