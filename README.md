@@ -33,9 +33,9 @@ See how happy we are during work and play:
 Being an online business doesn't mean we can only work on our website or apps. Instead, we believe being close with our users is very important. Therefore, we regularly held activities for our users in Singapore, suc as marketing events, user focus groups, or UAT.
 
 Here are some of our recent activities. See how happy our users are:
-[![VIDEO: Blogshop festival](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/images/youtube-blogshop1.png)]()
-[![VIDEO: Blogshop festival](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/images/youtube-blogshop2.png)]()
-[![VIDEO: Blogshop festival](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/images/youtube-chitchat1.png)]()
+[![VIDEO: Blogshop festival](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/images/youtube-blogshop1.png)](https://www.youtube.com/watch?v=21ht-bVuhJA)
+[![VIDEO: Blogshop festival](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/images/youtube-blogshop2.png)](https://www.youtube.com/watch?v=21ht-bVuhJA)
+[![VIDEO: Gumtree Chitchat](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/images/youtube-chitchat1.png)](https://www.youtube.com/watch?v=7Q-fac105r4)
 
 ## Our core values
 
