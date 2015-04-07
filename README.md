@@ -2,6 +2,13 @@
 
 ### Join US NOW
 
+---
+
+![eCG Logo](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/images/ecg-logo.jpg)
+![Gumtree Logo](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/images/gumtreesg-logo.jpg)
+
+---
+
 eBay Classifieds Group (eCG) is eBay's classifieds business all over the world. Famous brands such as Gumtree and Kijiji, are also under our group.
 
 Our team, headquartered in Hong Kong, is responsible for the APAC business, with Singapore being our top priority at this moment. We have a very strong user base with hugh amount of ad listings spanning across different categories such as stuff for sales, jobs, properties, etc. 
@@ -16,8 +23,8 @@ Come and visit our website and mobile apps to understand more about us:
 
 ### Open positions
 
-* [iOS Developer]()
-* [Android Developer]()
+* [iOS Developer](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/openings/seniors-ios-developer.md)
+* [Android Developer](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/openings/seniors-android-developer.md)
 
 ## Our team
 
