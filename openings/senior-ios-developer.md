@@ -1,4 +1,4 @@
-# Senior iOS developer
+# Senior iOS Developer
 
 ### Why do we need you?
 
@@ -8,7 +8,7 @@ Gumtree Singapore already has our own iOS app. We have a strong user base using 
 
 We expect you to take the ownership of our iOS app. So we hope you to be:
 
-* at least 3 years of solid development experience in iOS environment
+* having at least 3 years of solid development experience in iOS environment
 * having basic knowledge for iOS dev, such as xcode, Cocoa, Objective-C, OOP concept, etc.
 * understanding and actively following the iOS developemnt trends. We hope you to be creative and think about what cool features we can have
 * knowing the iOS development best practice
