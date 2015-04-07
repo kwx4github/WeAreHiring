@@ -23,8 +23,8 @@ Come and visit our website and mobile apps to understand more about us:
 
 ### Open positions
 
-* [iOS Developer](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/openings/seniors-ios-developer.md)
-* [Android Developer](https://raw.githubusercontent.com/eCG-APAC/WeAreHiring/master/openings/seniors-android-developer.md)
+* [iOS Developer](https://github.com/eCG-APAC/WeAreHiring/blob/master/openings/senior-ios-developer.md)
+* [Android Developer](https://github.com/eCG-APAC/WeAreHiring/blob/master/openings/senior-android-developer.md)
 
 ## Our team
 
