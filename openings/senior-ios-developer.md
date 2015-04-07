@@ -2,7 +2,7 @@
 
 ### Why do we need you?
 
-Gumtree Singapore already has our own iOS app. We already have a strong user base using our app, but it is not enough for us. Due to the fact that Singapore is one of the highest mobile penetration countries in the world, we believe that there is still a big room of improvement in terms of mobile usage. And that is why we need you to be our dedicated iOS exprt, who will only focus on our iOS app, to make it better and better for our users.
+Gumtree Singapore already has our own iOS app. We have a strong user base using our app, but it is not enough for us. Due to the fact that Singapore is one of the highest mobile penetration countries in the world, we believe that there is still a big room of improvement in terms of mobile usage. And that is why we need you to be our dedicated iOS exprt, who will only focus on our iOS app, to make it better and better for our users.
 
 ### About the job and challenges
 
