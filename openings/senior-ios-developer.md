@@ -24,8 +24,8 @@ We expect you to take the ownership of our iOS app. So we hope you to be:
 ### Application procedures
 
 * Just send us your resume to cfok@ebay.com
-* Please include your expected salary and the previous project you have done before, if any
+* Please include your expected salary and the previous projects you have done before, if any
 * If we think that you are really cool, we hope you to come and meet our colleagues. 
-* During the interview, please show us the cool apps you have done before
+* During the interview, please show us those cool apps you have done before
 * Please also bring along a list of improvement areas that you think the Gumtree Singapore app should do
 * Of course, if you think of any cool features we can do, let's discuss too
